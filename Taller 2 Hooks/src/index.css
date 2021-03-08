@@ -1,0 +1,104 @@
+/* INFORMACION */
+.outlinenone {
+  outline: none;
+  border: 0;
+}
+#letras {
+  color: #2023e2;
+  width: 962px;
+  font-size: 14px;
+  font-size: 14px;
+  margin-bottom: -20px;
+  font-family: "calibri";
+}
+#nombre {
+  font-size: 30px;
+  border-radius: 10px;
+  background-color: #0e12e723;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: 1%;
+  font-family: "calibri";
+}
+#apellidos {
+  font-size: 30px;
+  border-radius: 10px;
+  background-color: #0e12e723;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: 1%;
+  font-family: "calibri";
+}
+#email {
+  font-size: 30px;
+  border-radius: 10px;
+  background-color: #0e12e723;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: 1%;
+  font-family: "calibri";
+}
+#telefono {
+  font-size: 30px;
+  border-radius: 10px;
+  background-color: #0e12e723;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: 1%;
+  font-family: "calibri";
+}
+#direccion {
+  font-size: 30px;
+  border-radius: 10px;
+  background-color: #0e12e75d;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: 1%;
+  font-family: "calibri";
+}
+#escribir {
+  font-size: 31px;
+  border-radius: 10px;
+  background-color: #0e12e75d;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: 1%;
+  font-family: "calibri";
+}
+/* BOTON DE ENVIAR */
+#boton {
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 20px;
+  color: #ffffff;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 40px;
+  padding-right: 40px;
+  background-color: #2023e2;
+  border-color: #d8d8d8;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 35px;
+  font-family: "calibri";
+}
+/* placeholder */
+textarea::placeholder {
+  color: #5255f5;
+}
+input::placeholder {
+  color: #5255f5;
+}
+/* ESCRIBE TU MENSAJE AQUIA PARA NO MOVER */
+textarea {
+  resize: none;
+  outline: none;
+  border: 0;
+}
+/* CENTRAMOS EL FORMULARIO */
+#center {
+  text-align: center;
+}
+#cente {
+  text-align: center;
+}
